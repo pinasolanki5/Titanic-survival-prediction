@@ -66,7 +66,7 @@ Final survival prediction for test data
 
 📌 Results
 
-Achieved accuracy of ~XX% on validation/test data (update with your actual result)
+Achieved accuracy of 80% on validation/test data
 
 Identified key features contributing to survival such as Sex, Pclass, and Age
 
